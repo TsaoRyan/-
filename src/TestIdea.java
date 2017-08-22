@@ -8,5 +8,6 @@ public class TestIdea {
         System.out.println("第三次");
         System.out.println();
         System.out.println();
+        System.out.println("这是一次推送");
     }
 }
