@@ -7,5 +7,6 @@ public class Test {
         System.out.println("那么到我不是最酷的?!");
         System.out.println("666");
         System.out.println("8888");
+        System.out.println("putttttttt");
     }
 }
