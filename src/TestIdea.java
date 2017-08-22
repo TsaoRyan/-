@@ -9,5 +9,6 @@ public class TestIdea {
         System.out.println();
         System.out.println();
         System.out.println("这是一次推送");
+        System.out.println("666");
     }
 }
